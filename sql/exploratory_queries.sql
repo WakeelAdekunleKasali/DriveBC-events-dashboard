@@ -1,4 +1,4 @@
--- 1. Preview a few rows
+-- 1. Preview a few rows i.e. 10
 SELECT * FROM drivebcevents LIMIT 10;
 
 -- 2. Check how many rows are in the table
