@@ -2,7 +2,7 @@
 -- Note: If running manually, do this in psql
 CREATE DATABASE drivebcevent_project;
 
--- Connect to the database manually:
+-- Connect to the database:
 -- \c drivebcevent_project
 
 -- Create the drivebcevents table
