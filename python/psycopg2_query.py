@@ -3,10 +3,10 @@ import psycopg2
 # Connect to PostgreSQL
 conn = psycopg2.connect(
     dbname="drivebcevent_project",
-    user="wakeelkasali",
-    password="Adekunle66Q",  # 🔐 Be cautious with storing passwords in code
+    user=".....",
+    password="....",  
     host="localhost",
-    port="5432"
+    port="..."
 )
 
 # Create a cursor and execute a count query
