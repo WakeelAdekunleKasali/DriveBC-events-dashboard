@@ -18,7 +18,7 @@ The dashboard displays:
 
 📷 Dashboard Preview:
 
-![Dashboard Preview](tableau/dashboard_screenshots/drivebc_dashboard_preview.png)
+![Dashboard Preview](tableau/dashboard.png)
 
 ---
 
