@@ -18,7 +18,7 @@ The dashboard displays:
 
 📷 Dashboard Preview:
 
-![Dashboard Preview](tableau/dashboard.png)
+![https://public.tableau.com/app/profile/wakeel.kasali/viz/DriveBC/Dashboard2](tableau/dashboard.png)
 
 ---
 
