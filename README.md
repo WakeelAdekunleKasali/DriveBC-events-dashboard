@@ -8,7 +8,7 @@ This project analyzes roadway events across British Columbia (BC) between 2020 a
 ## 📊 Tableau Dashboard
 
 Explore the interactive dashboard on Tableau Public:  
-🔗 [View Dashboard](https://public.tableau.com/views/DriveBC/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+🔗 [Link to the tableau public](https://public.tableau.com/views/DriveBC/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 The dashboard displays:
 - Quarterly trends of DriveBC events by **Area Name**
