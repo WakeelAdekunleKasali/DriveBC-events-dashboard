@@ -1,11 +1,11 @@
 
-# 🚗 DriveBC Events Analysis (2020–2024)
+# DriveBC Events Analysis (2020–2024)
 
 This project analyzes roadway events across British Columbia (BC) between 2020 and 2024 using publicly available datasets. It includes steps for data extraction, cleaning, SQL database loading, exploratory analysis in Python, and interactive dashboarding with Tableau.
 
 ---
 
-## 📊 Tableau Dashboard
+## Tableau Dashboard
 
 Explore the interactive dashboard on Tableau Public:  
 🔗 [Link to the tableau public](https://public.tableau.com/views/DriveBC/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
@@ -16,15 +16,15 @@ The dashboard displays:
 - Filter options to compare regions
 - Key indicators for infrastructure monitoring
 
-📷 Dashboard Preview:
+ Dashboard Preview:
 
 ![https://public.tableau.com/app/profile/wakeel.kasali/viz/DriveBC/Dashboard2](tableau/dashboard.png)
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
-## 🗂️ Data Sources
+##  Data Sources
 
 - **Dataset**: [DriveBC Events (2020–2024)](https://open.canada.ca/data/en/dataset/cdf6ab31-fa03-479a-b6e0-f9a0c71edf91) from the Government of Canada Open Data Portal  
 - **License**: [Open Government Licence – British Columbia](https://www2.gov.bc.ca/gov/content/data/policy-standards/data-policies/open-data/open-government-licence-bc)
@@ -33,7 +33,7 @@ This project uses publicly available data distributed under the terms of the Ope
 
 ---
 
-## ⚙️ Technologies Used
+##  Technologies Used
 
 - **Python** – pandas, seaborn, matplotlib, sqlalchemy  
 - **SQL** – PostgreSQL  
@@ -42,7 +42,7 @@ This project uses publicly available data distributed under the terms of the Ope
 
 ---
 
-## ✅ Summary
+## Summary
 
 This project provides a complete and transparent pipeline for analyzing transportation-related events in BC. It supports:
 - Cleaning and transforming multi-year event data
